@@ -1,5 +1,6 @@
 # CS4620
 Database Systems
+Ohio University
 
 A Database for Dungeons & Dragons Guild
 
